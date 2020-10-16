@@ -5,4 +5,4 @@ NLP related projects
 
 * [NLTK Guide](): testing NLTK library primary functions and utilities.
 
-* [Advanced spaCy Course](https://github.com/Sampayob/NLP/blob/main/Advanced%20NLP%20spaCy.ipynb): notes and resumes from the [oficial spaCy advanced course](https://course.spacy.io/en/).
+* [Advanced spaCy course](https://github.com/Sampayob/NLP/blob/main/Advanced%20NLP%20spaCy.ipynb): notes and resumes from the [oficial spaCy advanced course](https://course.spacy.io/en/).
